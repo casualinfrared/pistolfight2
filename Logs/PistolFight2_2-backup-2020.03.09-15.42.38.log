@@ -1,0 +1,1017 @@
+﻿Log file open, 03/09/20 15:40:14
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: PistolFight2
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.692170
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GLTFImporter
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin BlastPlugin
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin DatasmithCADImporter
+LogPluginManager: Mounting plugin DatasmithDataPrepEditor
+LogPluginManager: Mounting plugin DatasmithFBXImporter
+LogPluginManager: Mounting plugin DatasmithGLTFImporter
+LogPluginManager: Mounting plugin DatasmithImporter
+LogPluginManager: Mounting plugin MDLImporter
+LogPluginManager: Mounting plugin StaticMeshEditorExtension
+LogPluginManager: Mounting plugin VariantManager
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1809) (), CPU: Intel(R) Core(TM) i5-6400 CPU @ 2.70GHz, GPU: Intel(R) HD Graphics 530
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line:  /Game/ThirdPersonBP/Maps/MenuLevel -game -PIEVIACONSOLE -ResX=1920 -ResY=1080 -Multiprocess -messaging -SessionName="Play in Standalone Game" -windowed -ForceRes
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.03.09-15.40.15:141][  0]LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+[2020.03.09-15.40.15:142][  0]LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.03.09-15.40.15:142][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/PistolFight2/Saved/Config/Windows/Engine.ini]
+[2020.03.09-15.40.15:142][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.03.09-15.40.15:142][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/PistolFight2/Saved/Config/Windows/Engine.ini]
+[2020.03.09-15.40.15:142][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/PistolFight2/Saved/Config/Windows/Engine.ini]
+[2020.03.09-15.40.15:142][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.03.09-15.40.15:142][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.03.09-15.40.15:142][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.03.09-15.40.15:142][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.03.09-15.40.15:142][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.03.09-15.40.15:142][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.03.09-15.40.15:142][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.03.09-15.40.15:142][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.03.09-15.40.15:142][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.03.09-15.40.15:142][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.03.09-15.40.15:142][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.03.09-15.40.15:142][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.03.09-15.40.15:142][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.03.09-15.40.15:142][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/PistolFight2/Saved/Config/Windows/Engine.ini]
+[2020.03.09-15.40.15:142][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.03.09-15.40.15:142][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.03.09-15.40.15:142][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.03.09-15.40.15:142][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.03.09-15.40.15:142][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.03.09-15.40.15:142][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.03.09-15.40.15:142][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.03.09-15.40.15:142][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.03.09-15.40.15:142][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.03.09-15.40.15:142][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.03.09-15.40.15:142][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.03.09-15.40.15:143][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.03.09-15.40.15:143][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.03.09-15.40.15:143][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/PistolFight2/Saved/Config/Windows/Engine.ini]
+[2020.03.09-15.40.15:143][  0]LogConfig: Setting CVar [[p.EnableMultiplayerWorldOriginRebasing:1]]
+[2020.03.09-15.40.15:143][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/PistolFight2/Saved/Config/Windows/Engine.ini]
+[2020.03.09-15.40.15:148][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/PistolFight2/Saved/Config/Windows/Scalability.ini]
+[2020.03.09-15.40.15:148][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.03.09-15.40.15:148][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.03.09-15.40.15:148][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/PistolFight2/Saved/Config/Windows/Scalability.ini]
+[2020.03.09-15.40.15:148][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.03.09-15.40.15:148][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/PistolFight2/Saved/Config/Windows/Scalability.ini]
+[2020.03.09-15.40.15:148][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.03.09-15.40.15:148][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.03.09-15.40.15:149][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.03.09-15.40.15:149][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.03.09-15.40.15:149][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.03.09-15.40.15:149][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.03.09-15.40.15:149][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.03.09-15.40.15:149][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.03.09-15.40.15:149][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.03.09-15.40.15:149][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.03.09-15.40.15:149][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.03.09-15.40.15:149][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.03.09-15.40.15:149][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.03.09-15.40.15:149][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.03.09-15.40.15:149][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.03.09-15.40.15:149][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.03.09-15.40.15:149][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.03.09-15.40.15:149][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.03.09-15.40.15:149][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/PistolFight2/Saved/Config/Windows/Scalability.ini]
+[2020.03.09-15.40.15:151][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.03.09-15.40.15:151][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.03.09-15.40.15:151][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.03.09-15.40.15:151][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.03.09-15.40.15:151][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.03.09-15.40.15:151][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.03.09-15.40.15:151][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.03.09-15.40.15:151][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.03.09-15.40.15:151][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.03.09-15.40.15:151][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.03.09-15.40.15:151][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.03.09-15.40.15:151][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.03.09-15.40.15:151][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.03.09-15.40.15:151][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.03.09-15.40.15:151][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.03.09-15.40.15:151][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.03.09-15.40.15:151][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.03.09-15.40.15:151][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.03.09-15.40.15:151][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.03.09-15.40.15:151][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.03.09-15.40.15:151][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.03.09-15.40.15:151][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.03.09-15.40.15:151][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.03.09-15.40.15:151][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.03.09-15.40.15:151][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.03.09-15.40.15:151][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.03.09-15.40.15:151][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.03.09-15.40.15:151][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.03.09-15.40.15:151][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.03.09-15.40.15:151][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.03.09-15.40.15:151][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/PistolFight2/Saved/Config/Windows/Scalability.ini]
+[2020.03.09-15.40.15:151][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.03.09-15.40.15:151][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.03.09-15.40.15:151][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.03.09-15.40.15:151][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.03.09-15.40.15:151][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.03.09-15.40.15:151][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.03.09-15.40.15:151][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.03.09-15.40.15:151][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.03.09-15.40.15:151][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/PistolFight2/Saved/Config/Windows/Scalability.ini]
+[2020.03.09-15.40.15:152][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.03.09-15.40.15:152][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.03.09-15.40.15:152][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.03.09-15.40.15:152][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.03.09-15.40.15:152][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.03.09-15.40.15:152][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.03.09-15.40.15:152][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.03.09-15.40.15:152][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.03.09-15.40.15:152][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.03.09-15.40.15:152][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.03.09-15.40.15:152][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.03.09-15.40.15:152][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.03.09-15.40.15:152][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.03.09-15.40.15:152][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/PistolFight2/Saved/Config/Windows/Scalability.ini]
+[2020.03.09-15.40.15:152][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.03.09-15.40.15:152][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.03.09-15.40.15:152][  0]LogInit: Selected Device Profile: [Windows]
+[2020.03.09-15.40.15:152][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.03.09-15.40.15:164][  0]LogHAL: Display: Platform has ~ 8 GB [8475480064 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.03.09-15.40.15:164][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2020.03.09-15.40.15:164][  0]LogInit: Going up to parent DeviceProfile []
+[2020.03.09-15.40.15:164][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/PistolFight2/Saved/Config/Windows/Scalability.ini]
+[2020.03.09-15.40.15:164][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.03.09-15.40.15:164][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.03.09-15.40.15:164][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/PistolFight2/Saved/Config/Windows/Scalability.ini]
+[2020.03.09-15.40.15:164][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.03.09-15.40.15:164][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/PistolFight2/Saved/Config/Windows/Scalability.ini]
+[2020.03.09-15.40.15:164][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.03.09-15.40.15:164][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.03.09-15.40.15:164][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.03.09-15.40.15:164][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.03.09-15.40.15:164][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.03.09-15.40.15:164][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.03.09-15.40.15:164][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.03.09-15.40.15:164][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.03.09-15.40.15:165][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.03.09-15.40.15:165][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.03.09-15.40.15:165][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.03.09-15.40.15:165][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.03.09-15.40.15:165][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.03.09-15.40.15:165][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.03.09-15.40.15:165][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.03.09-15.40.15:165][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.03.09-15.40.15:165][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.03.09-15.40.15:165][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.03.09-15.40.15:165][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/PistolFight2/Saved/Config/Windows/Scalability.ini]
+[2020.03.09-15.40.15:165][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.03.09-15.40.15:165][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.03.09-15.40.15:165][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.03.09-15.40.15:165][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.03.09-15.40.15:165][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.03.09-15.40.15:165][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.03.09-15.40.15:165][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.03.09-15.40.15:165][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.03.09-15.40.15:165][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.03.09-15.40.15:165][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.03.09-15.40.15:165][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.03.09-15.40.15:165][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.03.09-15.40.15:165][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.03.09-15.40.15:165][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.03.09-15.40.15:165][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.03.09-15.40.15:165][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.03.09-15.40.15:165][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.03.09-15.40.15:165][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.03.09-15.40.15:165][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.03.09-15.40.15:165][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.03.09-15.40.15:165][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.03.09-15.40.15:165][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.03.09-15.40.15:165][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.03.09-15.40.15:165][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.03.09-15.40.15:165][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.03.09-15.40.15:165][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.03.09-15.40.15:165][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.03.09-15.40.15:165][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.03.09-15.40.15:165][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.03.09-15.40.15:165][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.03.09-15.40.15:165][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/PistolFight2/Saved/Config/Windows/Scalability.ini]
+[2020.03.09-15.40.15:165][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.03.09-15.40.15:165][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.03.09-15.40.15:165][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.03.09-15.40.15:165][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.03.09-15.40.15:165][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.03.09-15.40.15:165][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.03.09-15.40.15:165][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.03.09-15.40.15:165][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.03.09-15.40.15:165][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/PistolFight2/Saved/Config/Windows/Scalability.ini]
+[2020.03.09-15.40.15:165][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.03.09-15.40.15:165][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.03.09-15.40.15:165][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.03.09-15.40.15:165][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.03.09-15.40.15:165][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.03.09-15.40.15:165][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.03.09-15.40.15:165][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.03.09-15.40.15:165][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.03.09-15.40.15:165][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.03.09-15.40.15:165][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.03.09-15.40.15:165][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.03.09-15.40.15:165][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.03.09-15.40.15:165][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.03.09-15.40.15:165][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/PistolFight2/Saved/Config/Windows/Scalability.ini]
+[2020.03.09-15.40.15:165][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.03.09-15.40.15:165][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.03.09-15.40.15:165][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.03.09-15.40.15:166][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.03.09-15.40.15:166][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.03.09-15.40.15:166][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/PistolFight2/Saved/Config/Windows/Engine.ini]
+[2020.03.09-15.40.15:166][  0]LogInit: Computer: L0158-D021NAC
+[2020.03.09-15.40.15:166][  0]LogInit: User: 10615418
+[2020.03.09-15.40.15:166][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.03.09-15.40.15:166][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.03.09-15.40.15:166][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2020.03.09-15.40.15:166][  0]LogMemory: Platform Memory Stats for Windows
+[2020.03.09-15.40.15:167][  0]LogMemory: Process Physical Memory: 97.15 MB used, 97.16 MB peak
+[2020.03.09-15.40.15:167][  0]LogMemory: Process Virtual Memory: 91.93 MB used, 91.93 MB peak
+[2020.03.09-15.40.15:167][  0]LogMemory: Physical Memory: 5776.76 MB used,  2306.09 MB free, 8082.85 MB total
+[2020.03.09-15.40.15:167][  0]LogMemory: Virtual Memory: 4647.41 MB used,  134213080.00 MB free, 134217728.00 MB total
+[2020.03.09-15.40.15:204][  0]LogInit: Using OS detected language (en-US).
+[2020.03.09-15.40.15:204][  0]LogInit: Using OS detected locale (en-GB).
+[2020.03.09-15.40.15:205][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.03.09-15.40.15:700][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.03.09-15.40.15:700][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.03.09-15.40.15:739][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.03.09-15.40.15:739][  0]LogD3D11RHI: D3D11 adapters:
+[2020.03.09-15.40.15:796][  0]LogD3D11RHI:    0. 'Intel(R) HD Graphics 530' (Feature Level 11_0)
+[2020.03.09-15.40.15:796][  0]LogD3D11RHI:       128/0/4041 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2020.03.09-15.40.15:799][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.03.09-15.40.15:799][  0]LogD3D11RHI:       0/0/4041 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.03.09-15.40.15:799][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.03.09-15.40.15:806][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.03.09-15.40.15:806][  0]LogD3D11RHI:     GPU DeviceId: 0x1912 (for the marketing name, search the web for "GPU Device Id")
+[2020.03.09-15.40.15:806][  0]LogWindows: EnumDisplayDevices:
+[2020.03.09-15.40.15:806][  0]LogWindows:    0. 'Intel(R) HD Graphics 530' (P:1 D:1)
+[2020.03.09-15.40.15:807][  0]LogWindows:    1. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2020.03.09-15.40.15:807][  0]LogWindows: DebugString: FoundDriverCount:2 
+[2020.03.09-15.40.15:807][  0]LogD3D11RHI:     Adapter Name: Intel(R) HD Graphics 530
+[2020.03.09-15.40.15:807][  0]LogD3D11RHI:   Driver Version: 25.20.100.6326 (internal:25.20.100.6326, unified:25.20.100.6326)
+[2020.03.09-15.40.15:807][  0]LogD3D11RHI:      Driver Date: 10-1-2018
+[2020.03.09-15.40.15:807][  0]LogRHI: Texture pool is 1504 MB (70% of 2148 MB)
+[2020.03.09-15.40.15:857][  0]LogD3D11RHI: Async texture creation enabled
+[2020.03.09-15.40.15:861][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.03.09-15.40.15:862][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.03.09-15.40.15:862][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.03.09-15.40.15:864][  0]LogD3D11RHI: GPU Timing Frequency: 12.000048 (Debug: 2 0)
+[2020.03.09-15.40.16:189][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.03.09-15.40.16:204][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.03.09-15.40.16:220][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.03.09-15.40.16:228][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.03.09-15.40.16:228][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.03.09-15.40.16:238][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.03.09-15.40.16:304][  0]LogShaderCompilers: Guid format shader working directory is 34 characters bigger than the processId version (D:/PistolFight2/Intermediate/Shaders/WorkingDirectory/7900/).
+[2020.03.09-15.40.16:304][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/10615418/AppData/Local/Temp/UnrealShaderWorkingDir/049433BA494B8DE802E2FD8F07F8ED72/'.
+[2020.03.09-15.40.16:308][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.03.09-15.40.16:308][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.03.09-15.40.16:308][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.03.09-15.40.16:929][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.03.09-15.40.17:013][  0]LogDerivedDataCache: Loaded boot cache 0.08s 72MB C:/Users/10615418/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.03.09-15.40.17:013][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/10615418/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2020.03.09-15.40.17:013][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/PistolFight2/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.03.09-15.40.17:013][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.03.09-15.40.17:013][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/PistolFight2/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.03.09-15.40.17:013][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.03.09-15.40.17:027][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.03.09-15.40.17:031][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Enterprise/DerivedDataCache/Compressed.ddp.
+[2020.03.09-15.40.17:043][  0]LogDerivedDataCache: Using Local data cache path C:/Users/10615418/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.03.09-15.40.17:043][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.03.09-15.40.17:043][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.03.09-15.40.17:069][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.03.09-15.40.17:070][  0]LogSlate: Using FreeType 2.6.0
+[2020.03.09-15.40.17:071][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.03.09-15.40.17:221][  0]LogInit: Using OS detected language (en-US).
+[2020.03.09-15.40.17:222][  0]LogInit: Using OS detected locale (en-GB).
+[2020.03.09-15.40.17:222][  0]LogTextLocalizationManager: No localization for 'en-US' exists, so 'en' will be used for the language.
+[2020.03.09-15.40.17:222][  0]LogTextLocalizationManager: No localization for 'en-GB' exists, so 'en' will be used for the locale.
+[2020.03.09-15.40.17:222][  0]LogSlate: FontCache flush requested. Reason: Culture for localization was changed
+[2020.03.09-15.40.17:223][  0]LogSlate: FontCache flush requested. Reason: Culture for localization was changed
+[2020.03.09-15.40.17:225][  0]LogTextLocalizationManager: Compacting localization data took   0.00ms
+[2020.03.09-15.40.17:234][  0]LogAssetRegistry: FAssetRegistry took 0.0052 seconds to start up
+[2020.03.09-15.40.17:473][  0]LogPackageLocalizationCache: Processed 16 localized package path(s) for 1 prioritized culture(s) in 0.001057 seconds
+[2020.03.09-15.40.17:677][  0]LogInit: Selected Device Profile: [Windows]
+[2020.03.09-15.40.17:736][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.03.09-15.40.17:736][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.03.09-15.40.17:736][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.03.09-15.40.17:736][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.03.09-15.40.17:737][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.03.09-15.40.17:833][  0]LogNetVersion: PistolFight2 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 2530651215)
+[2020.03.09-15.40.18:470][  0]LogMoviePlayer: Initializing movie player
+[2020.03.09-15.40.18:590][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.03.09-15.40.18:602][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.03.09-15.40.18:689][  0]SourceControl: Source control is disabled
+[2020.03.09-15.40.18:689][  0]SourceControl: Source control is disabled
+[2020.03.09-15.40.18:690][  0]SourceControl: Source control is disabled
+[2020.03.09-15.40.18:741][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.03.09-15.40.18:808][  0]LogOcInput: OculusInput pre-init called
+[2020.03.09-15.40.18:818][  0]LogUObjectArray: 46459 objects as part of root set at end of initial load.
+[2020.03.09-15.40.18:819][  0]LogUObjectAllocator: 8159704 out of 0 bytes used by permanent object pool.
+[2020.03.09-15.40.18:819][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.03.09-15.40.18:970][  0]LogEngine: Initializing Engine...
+[2020.03.09-15.40.18:971][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.03.09-15.40.18:982][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.03.09-15.40.19:168][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.03.09-15.40.19:184][  0]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.03.09-15.40.19:206][  0]LogInit: FAudioDevice initialized.
+[2020.03.09-15.40.19:219][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.03.09-15.40.19:226][  0]LogInit: Texture streaming: Enabled
+[2020.03.09-15.40.19:396][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.09-15.40.19:397][  0]LogInit: Display: Game Engine Initialized.
+[2020.03.09-15.40.19:461][  0]LogInit: Display: Starting Game.
+[2020.03.09-15.40.19:461][  0]LogNet: Browse: /Game/ThirdPersonBP/Maps/MenuLevel?Name=Player
+[2020.03.09-15.40.19:462][  0]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/MenuLevel?Name=Player
+[2020.03.09-15.40.19:490][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2020.03.09-15.40.19:630][  0]LogAIModule: Creating AISystem for world MenuLevel
+[2020.03.09-15.40.19:631][  0]LogLoad: Game class is 'MenuGameMode_C'
+[2020.03.09-15.40.19:632][  0]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/MenuLevel.MenuLevel up for play (max tick rate 0) at 2020.03.09-15.40.19
+[2020.03.09-15.40.19:633][  0]LogWorld: Bringing up level for play took: 0.000592
+[2020.03.09-15.40.19:633][  0]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.03.09-15.40.19:640][  0]LogLoad: Took 0.178866 seconds to LoadMap(/Game/ThirdPersonBP/Maps/MenuLevel)
+[2020.03.09-15.40.19:692][  0]LogRenderer: Reallocating scene render targets to support 1920x1080 Format 10 NumSamples 1 (Frame:1).
+[2020.03.09-15.40.19:693][  0]LogLoad: (Engine Initialization) Total time: 8.15 seconds
+[2020.03.09-15.40.19:693][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.03.09-15.40.20:296][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.03.09-15.40.25:823][ 89]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.09-15.40.25:941][ 91]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.09-15.40.25:946][ 91]LogSlate: Took 0.000438 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.03.09-15.40.26:512][ 99]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/PistolFight2/Saved/Config/Windows/Scalability.ini]
+[2020.03.09-15.40.26:512][ 99]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.03.09-15.40.26:512][ 99]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.03.09-15.40.26:512][ 99]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/PistolFight2/Saved/Config/Windows/Scalability.ini]
+[2020.03.09-15.40.26:512][ 99]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.03.09-15.40.26:512][ 99]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/PistolFight2/Saved/Config/Windows/Scalability.ini]
+[2020.03.09-15.40.26:512][ 99]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.03.09-15.40.26:512][ 99]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.03.09-15.40.26:512][ 99]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.03.09-15.40.26:512][ 99]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.03.09-15.40.26:512][ 99]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.03.09-15.40.26:512][ 99]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.03.09-15.40.26:512][ 99]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.03.09-15.40.26:512][ 99]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.03.09-15.40.26:512][ 99]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.03.09-15.40.26:512][ 99]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.03.09-15.40.26:512][ 99]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.03.09-15.40.26:512][ 99]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.03.09-15.40.26:513][ 99]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.03.09-15.40.26:513][ 99]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.03.09-15.40.26:513][ 99]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.03.09-15.40.26:513][ 99]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.03.09-15.40.26:513][ 99]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.03.09-15.40.26:513][ 99]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.03.09-15.40.26:513][ 99]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/PistolFight2/Saved/Config/Windows/Scalability.ini]
+[2020.03.09-15.40.26:513][ 99]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.03.09-15.40.26:513][ 99]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.03.09-15.40.26:513][ 99]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.03.09-15.40.26:513][ 99]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.03.09-15.40.26:513][ 99]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.03.09-15.40.26:513][ 99]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.03.09-15.40.26:513][ 99]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.03.09-15.40.26:513][ 99]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.03.09-15.40.26:513][ 99]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.03.09-15.40.26:513][ 99]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.03.09-15.40.26:513][ 99]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.03.09-15.40.26:513][ 99]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.03.09-15.40.26:513][ 99]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.03.09-15.40.26:514][ 99]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.03.09-15.40.26:514][ 99]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.03.09-15.40.26:514][ 99]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.03.09-15.40.26:514][ 99]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.03.09-15.40.26:514][ 99]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.03.09-15.40.26:514][ 99]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.03.09-15.40.26:514][ 99]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.03.09-15.40.26:514][ 99]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.03.09-15.40.26:514][ 99]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.03.09-15.40.26:514][ 99]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.03.09-15.40.26:514][ 99]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.03.09-15.40.26:514][ 99]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.03.09-15.40.26:514][ 99]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.03.09-15.40.26:514][ 99]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.03.09-15.40.26:514][ 99]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.03.09-15.40.26:514][ 99]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.03.09-15.40.26:514][ 99]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.03.09-15.40.26:514][ 99]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/PistolFight2/Saved/Config/Windows/Scalability.ini]
+[2020.03.09-15.40.26:514][ 99]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.03.09-15.40.26:514][ 99]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.03.09-15.40.26:514][ 99]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.03.09-15.40.26:514][ 99]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.03.09-15.40.26:514][ 99]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.03.09-15.40.26:514][ 99]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.03.09-15.40.26:514][ 99]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.03.09-15.40.26:514][ 99]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.03.09-15.40.26:514][ 99]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/PistolFight2/Saved/Config/Windows/Scalability.ini]
+[2020.03.09-15.40.26:514][ 99]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.03.09-15.40.26:514][ 99]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.03.09-15.40.26:514][ 99]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.03.09-15.40.26:514][ 99]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.03.09-15.40.26:514][ 99]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.03.09-15.40.26:514][ 99]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.03.09-15.40.26:515][ 99]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.03.09-15.40.26:515][ 99]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.03.09-15.40.26:515][ 99]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.03.09-15.40.26:515][ 99]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.03.09-15.40.26:515][ 99]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.03.09-15.40.26:515][ 99]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.03.09-15.40.26:515][ 99]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.03.09-15.40.26:515][ 99]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/PistolFight2/Saved/Config/Windows/Scalability.ini]
+[2020.03.09-15.40.26:515][ 99]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.03.09-15.40.26:515][ 99]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.03.09-15.40.26:612][102]LogRenderer: Reallocating scene render targets to support 1600x900 Format 10 NumSamples 1 (Frame:103).
+[2020.03.09-15.40.46:275][553]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.09-15.40.46:306][554]LogNet: Browse: 172.19.102.240//Game/ThirdPersonBP/Maps/MenuLevel
+[2020.03.09-15.40.46:306][554]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.03.09-15.40.46:306][554]LogTemp: Display: ParseSettings for IpNetDriver_0
+[2020.03.09-15.40.46:306][554]LogTemp: Display: ParseSettings for PendingNetDriver
+[2020.03.09-15.40.46:306][554]LogInit: WinSock: Socket queue 32768 / 32768
+[2020.03.09-15.40.46:309][554]LogInit: WinSock: I am L0158-D021NAC (172.19.100.159:0)
+[2020.03.09-15.40.46:310][554]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.03.09-15.40.46:310][554]LogNet: Game client on port 7777, rate 10000
+[2020.03.09-15.40.46:363][555]LogHandshake: SendChallengeResponse. Timestamp: 448.358124, Cookie: 209004158144221168224195242217166012167060136104129204204139
+[2020.03.09-15.40.46:443][557]LogNetVersion: PistolFight2 1.0.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 1766765972)
+[2020.03.09-15.40.46:443][557]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 172.19.102.240:7777, Name: IpConnection_0, Driver: PendingNetDriver IpNetDriver_0, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2020.03.09-15.40.46:561][560]LogNet: Welcomed by server (Level: /Game/ThirdPersonBP/Maps/Level, Game: /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C)
+[2020.03.09-15.40.46:618][560]LogLoad: LoadMap: 172.19.102.240//Game/ThirdPersonBP/Maps/Level?game=/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C
+[2020.03.09-15.40.46:661][560]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2020.03.09-15.40.47:580][560]LogTexture: Display: Building textures: Dirt_03_seamless (AutoDXT, 1600X1600)
+[2020.03.09-15.40.51:149][560]LogMaterial: Display: Missing cached shader map for material 02_-_Default, compiling. 
+[2020.03.09-15.40.51:149][560]LogMaterial: Warning: D:\PistolFight2\Content\ThirdPersonBP\Blueprints\02_-_Default.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.03.09-15.40.51:149][560]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.03.09-15.40.51:152][560]LogMaterial: Display: Missing cached shader map for material Dirt_03_seamless_Mat, compiling. 
+[2020.03.09-15.40.51:244][560]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2020.03.09-15.40.51:539][560]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 64X64)
+[2020.03.09-15.40.51:552][560]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2020.03.09-15.40.51:739][560]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 64X64)
+[2020.03.09-15.40.51:740][560]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (BGRA8, 512X128)
+[2020.03.09-15.40.51:741][560]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (G8, 32X32)
+[2020.03.09-15.40.51:743][560]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.03.09-15.40.51:747][560]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/Level.Level up for play (max tick rate 0) at 2020.03.09-15.40.51
+[2020.03.09-15.40.51:748][560]LogWorld: Bringing up level for play took: 0.003797
+[2020.03.09-15.40.51:750][560]LogLoad: Took 5.132424 seconds to LoadMap(/Game/ThirdPersonBP/Maps/Level)
+[2020.03.09-15.40.51:750][560]LogNet: UNetDriver::TickDispatch: Very long time between ticks. DeltaTime: 0.03, Realtime: 5.19. IpNetDriver_0
+[2020.03.09-15.40.51:756][561]LogNet: UNetDriver::TickDispatch: Very long time between ticks. DeltaTime: 5.19, Realtime: 0.01. IpNetDriver_0
+[2020.03.09-15.40.51:898][562]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2020.03.09-15.40.51:898][562]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2020.03.09-15.40.52:084][564]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2020.03.09-15.40.52:095][564]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] P2
+[2020.03.09-15.40.52:095][564]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] P2
+[2020.03.09-15.40.52:096][564]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2020.03.09-15.40.52:098][564]LogMaterial: Warning: Material /Game/ThirdPerson/Models/02_-_Default.02_-_Default missing bUsedWithSkeletalMesh=True! Default Material will be used in game.
+[2020.03.09-15.40.52:098][564]LogMaterial: Had to pass SMU back to game thread. Please ensure correct material usage flags.
+[2020.03.09-15.40.52:098][564]LogMaterial: Warning:      The material will recompile every editor launch until resaved.
+[2020.03.09-15.40.52:098][564]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2020.03.09-15.40.52:098][564]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2020.03.09-15.40.52:098][564]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2020.03.09-15.40.52:098][564]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2020.03.09-15.40.52:098][564]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2020.03.09-15.40.52:098][564]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2020.03.09-15.40.52:098][564]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2020.03.09-15.40.52:098][564]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2020.03.09-15.40.58:275][651]PIE: Warning: FirstPersonProjectile_C_0.CollisionComponent has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.03.09-15.40.58:541][654]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2020.03.09-15.41.00:825][689]PIE: Warning: FirstPersonProjectile_C_1.CollisionComponent has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.03.09-15.41.01:167][694]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2020.03.09-15.41.01:527][700]PIE: Warning: FirstPersonProjectile_C_2.CollisionComponent has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.03.09-15.41.01:756][704]PIE: Warning: FirstPersonProjectile_C_3.CollisionComponent has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.03.09-15.41.01:797][705]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2020.03.09-15.41.02:036][709]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2020.03.09-15.41.06:167][777]LogBlueprintUserMessages: [ThirdPersonCharacter_C_2] P1
+[2020.03.09-15.41.06:167][777]LogBlueprintUserMessages: [ThirdPersonCharacter_C_2] P1
+[2020.03.09-15.41.06:167][777]LogBlueprintUserMessages: [ThirdPersonCharacter_C_2] P1
+[2020.03.09-15.41.06:168][777]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2020.03.09-15.41.06:168][777]LogBlueprintUserMessages: [ThirdPersonCharacter_C_2] P1
+[2020.03.09-15.41.06:168][777]LogBlueprintUserMessages: [ThirdPersonCharacter_C_2] P1
+[2020.03.09-15.41.06:168][777]LogBlueprintUserMessages: [ThirdPersonCharacter_C_2] P1
+[2020.03.09-15.41.06:174][777]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2020.03.09-15.41.06:175][777]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2020.03.09-15.41.06:175][777]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2020.03.09-15.41.06:175][777]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2020.03.09-15.41.15:849][932]PIE: Warning: FirstPersonProjectile_C_4.CollisionComponent has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.03.09-15.41.16:450][941]PIE: Warning: FirstPersonProjectile_C_5.CollisionComponent has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.03.09-15.41.16:708][945]PIE: Warning: FirstPersonProjectile_C_6.CollisionComponent has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.03.09-15.41.16:873][948]PIE: Warning: FirstPersonProjectile_C_7.CollisionComponent has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.03.09-15.41.17:093][951]PIE: Warning: FirstPersonProjectile_C_8.CollisionComponent has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.03.09-15.41.17:277][954]PIE: Warning: FirstPersonProjectile_C_9.CollisionComponent has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.03.09-15.41.17:517][957]PIE: Warning: FirstPersonProjectile_C_10.CollisionComponent has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.03.09-15.41.17:697][960]PIE: Warning: FirstPersonProjectile_C_11.CollisionComponent has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.03.09-15.41.17:915][963]PIE: Warning: FirstPersonProjectile_C_12.CollisionComponent has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.03.09-15.41.18:038][965]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2020.03.09-15.41.23:177][ 48]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2020.03.09-15.41.23:221][ 49]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2020.03.09-15.41.23:221][ 49]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2020.03.09-15.41.23:311][ 50]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2020.03.09-15.41.23:311][ 50]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2020.03.09-15.41.23:356][ 51]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2020.03.09-15.41.23:356][ 51]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2020.03.09-15.41.23:450][ 52]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2020.03.09-15.41.29:585][153]PIE: Warning: FirstPersonProjectile_C_24.CollisionComponent has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.03.09-15.41.29:813][157]PIE: Warning: FirstPersonProjectile_C_25.CollisionComponent has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.03.09-15.41.30:021][160]PIE: Warning: FirstPersonProjectile_C_26.CollisionComponent has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.03.09-15.41.30:140][162]PIE: Warning: FirstPersonProjectile_C_27.CollisionComponent has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.03.09-15.41.30:298][165]PIE: Warning: FirstPersonProjectile_C_28.CollisionComponent has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.03.09-15.41.30:503][168]PIE: Warning: FirstPersonProjectile_C_29.CollisionComponent has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.03.09-15.41.30:622][170]PIE: Warning: FirstPersonProjectile_C_30.CollisionComponent has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.03.09-15.41.30:781][173]PIE: Warning: FirstPersonProjectile_C_31.CollisionComponent has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.03.09-15.41.30:979][176]PIE: Warning: FirstPersonProjectile_C_32.CollisionComponent has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.03.09-15.41.31:106][178]PIE: Warning: FirstPersonProjectile_C_33.CollisionComponent has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.03.09-15.41.31:338][182]PIE: Warning: FirstPersonProjectile_C_34.CollisionComponent has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.03.09-15.41.31:459][184]PIE: Warning: FirstPersonProjectile_C_35.CollisionComponent has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.03.09-15.41.31:702][188]PIE: Warning: FirstPersonProjectile_C_36.CollisionComponent has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.03.09-15.41.31:867][191]PIE: Warning: FirstPersonProjectile_C_37.CollisionComponent has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.03.09-15.41.32:575][202]PIE: Warning: FirstPersonProjectile_C_42.CollisionComponent has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.03.09-15.41.32:833][206]PIE: Warning: FirstPersonProjectile_C_45.CollisionComponent has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.03.09-15.41.32:958][208]PIE: Warning: FirstPersonProjectile_C_47.CollisionComponent has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.03.09-15.41.33:131][211]PIE: Warning: FirstPersonProjectile_C_49.CollisionComponent has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.03.09-15.41.33:331][214]PIE: Warning: FirstPersonProjectile_C_52.CollisionComponent has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.03.09-15.41.33:503][217]PIE: Warning: FirstPersonProjectile_C_54.CollisionComponent has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.03.09-15.41.33:716][220]PIE: Warning: FirstPersonProjectile_C_56.CollisionComponent has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.03.09-15.41.33:970][224]PIE: Warning: FirstPersonProjectile_C_59.CollisionComponent has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.03.09-15.41.34:147][227]PIE: Warning: FirstPersonProjectile_C_61.CollisionComponent has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.03.09-15.41.35:856][254]PIE: Warning: FirstPersonProjectile_C_69.CollisionComponent has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.03.09-15.41.36:116][258]PIE: Warning: FirstPersonProjectile_C_70.CollisionComponent has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.03.09-15.41.36:284][261]PIE: Warning: FirstPersonProjectile_C_71.CollisionComponent has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.03.09-15.41.36:490][264]PIE: Warning: FirstPersonProjectile_C_72.CollisionComponent has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.03.09-15.41.36:650][267]PIE: Warning: FirstPersonProjectile_C_73.CollisionComponent has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.03.09-15.41.36:841][270]PIE: Warning: FirstPersonProjectile_C_74.CollisionComponent has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.03.09-15.41.37:026][273]PIE: Warning: FirstPersonProjectile_C_75.CollisionComponent has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.03.09-15.41.37:271][277]PIE: Warning: FirstPersonProjectile_C_76.CollisionComponent has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.03.09-15.41.37:499][280]PIE: Warning: FirstPersonProjectile_C_77.CollisionComponent has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.03.09-15.41.37:756][284]PIE: Warning: FirstPersonProjectile_C_78.CollisionComponent has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.03.09-15.41.37:920][287]PIE: Warning: FirstPersonProjectile_C_79.CollisionComponent has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.03.09-15.41.38:126][290]PIE: Warning: FirstPersonProjectile_C_80.CollisionComponent has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.03.09-15.41.38:271][292]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2020.03.09-15.41.38:316][293]PIE: Warning: FirstPersonProjectile_C_81.CollisionComponent has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.03.09-15.41.38:517][296]PIE: Warning: FirstPersonProjectile_C_83.CollisionComponent has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.03.09-15.41.38:678][299]PIE: Warning: FirstPersonProjectile_C_84.CollisionComponent has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.03.09-15.41.38:891][302]PIE: Warning: FirstPersonProjectile_C_86.CollisionComponent has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.03.09-15.41.39:149][306]PIE: Warning: FirstPersonProjectile_C_89.CollisionComponent has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.03.09-15.41.39:274][308]PIE: Warning: FirstPersonProjectile_C_91.CollisionComponent has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.03.09-15.41.39:555][312]PIE: Warning: FirstPersonProjectile_C_94.CollisionComponent has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.03.09-15.41.39:684][314]PIE: Warning: FirstPersonProjectile_C_96.CollisionComponent has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.03.09-15.41.39:685][314]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2020.03.09-15.41.39:815][316]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2020.03.09-15.41.39:947][318]PIE: Warning: FirstPersonProjectile_C_98.CollisionComponent has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.03.09-15.41.40:075][320]PIE: Warning: FirstPersonProjectile_C_99.CollisionComponent has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.03.09-15.41.40:076][320]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2020.03.09-15.41.40:200][322]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2020.03.09-15.41.40:246][323]PIE: Warning: FirstPersonProjectile_C_100.CollisionComponent has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.03.09-15.41.40:457][326]PIE: Warning: FirstPersonProjectile_C_101.CollisionComponent has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.03.09-15.41.40:702][330]PIE: Warning: FirstPersonProjectile_C_102.CollisionComponent has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.03.09-15.41.40:821][332]PIE: Warning: FirstPersonProjectile_C_103.CollisionComponent has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.03.09-15.41.40:995][335]PIE: Warning: FirstPersonProjectile_C_104.CollisionComponent has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.03.09-15.41.41:243][339]PIE: Warning: FirstPersonProjectile_C_105.CollisionComponent has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.03.09-15.41.41:452][342]PIE: Warning: FirstPersonProjectile_C_106.CollisionComponent has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.03.09-15.41.41:698][346]LogOnlineSession: Warning: OSS: No game present to leave for session (GameSession)
+[2020.03.09-15.41.41:700][346]PIE: Warning: FirstPersonProjectile_C_107.CollisionComponent has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.03.09-15.41.41:831][348]PIE: Warning: FirstPersonProjectile_C_108.CollisionComponent has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.03.09-15.41.42:088][352]PIE: Warning: FirstPersonProjectile_C_109.CollisionComponent has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.03.09-15.41.42:132][353]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2020.03.09-15.41.42:335][356]PIE: Warning: FirstPersonProjectile_C_110.CollisionComponent has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.03.09-15.41.42:382][357]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2020.03.09-15.41.42:465][358]PIE: Warning: FirstPersonProjectile_C_111.CollisionComponent has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.03.09-15.41.42:635][361]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2020.03.09-15.41.42:713][362]PIE: Warning: FirstPersonProjectile_C_112.CollisionComponent has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.03.09-15.41.42:714][362]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2020.03.09-15.41.42:881][365]PIE: Warning: FirstPersonProjectile_C_113.CollisionComponent has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.03.09-15.41.43:082][368]PIE: Warning: FirstPersonProjectile_C_114.CollisionComponent has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.03.09-15.41.43:251][371]PIE: Warning: FirstPersonProjectile_C_115.CollisionComponent has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.03.09-15.41.43:457][374]PIE: Warning: FirstPersonProjectile_C_116.CollisionComponent has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.03.09-15.41.43:613][377]PIE: Warning: FirstPersonProjectile_C_117.CollisionComponent has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.03.09-15.41.43:845][380]PIE: Warning: FirstPersonProjectile_C_120.CollisionComponent has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.03.09-15.41.47:594][441]LogBlueprintUserMessages: [ThirdPersonCharacter_C_3] P2
+[2020.03.09-15.41.47:594][441]LogBlueprintUserMessages: [ThirdPersonCharacter_C_3] P2
+[2020.03.09-15.41.47:594][441]LogBlueprintUserMessages: [ThirdPersonCharacter_C_3] P2
+[2020.03.09-15.41.47:596][441]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2020.03.09-15.41.47:596][441]LogBlueprintUserMessages: [ThirdPersonCharacter_C_3] P2
+[2020.03.09-15.41.47:596][441]LogBlueprintUserMessages: [ThirdPersonCharacter_C_3] P2
+[2020.03.09-15.41.47:596][441]LogBlueprintUserMessages: [ThirdPersonCharacter_C_3] P2
+[2020.03.09-15.41.47:599][441]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2020.03.09-15.41.47:599][441]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2020.03.09-15.41.47:599][441]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2020.03.09-15.41.47:599][441]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2020.03.09-15.41.50:086][481]PIE: Warning: FirstPersonProjectile_C_128.CollisionComponent has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.03.09-15.41.50:292][484]PIE: Warning: FirstPersonProjectile_C_129.CollisionComponent has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.03.09-15.41.50:600][489]PIE: Warning: FirstPersonProjectile_C_132.CollisionComponent has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.03.09-15.41.50:803][492]PIE: Warning: FirstPersonProjectile_C_133.CollisionComponent has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.03.09-15.41.51:057][496]PIE: Warning: FirstPersonProjectile_C_134.CollisionComponent has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.03.09-15.41.51:234][499]PIE: Warning: FirstPersonProjectile_C_135.CollisionComponent has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.03.09-15.41.51:453][502]PIE: Warning: FirstPersonProjectile_C_138.CollisionComponent has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.03.09-15.41.51:714][506]PIE: Warning: FirstPersonProjectile_C_140.CollisionComponent has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.03.09-15.41.51:880][509]PIE: Warning: FirstPersonProjectile_C_142.CollisionComponent has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.03.09-15.41.52:096][512]PIE: Warning: FirstPersonProjectile_C_143.CollisionComponent has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.03.09-15.41.52:099][512]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue5
+	ThirdPersonCharacter_C /Game/ThirdPersonBP/Maps/Level.Level:PersistentLevel.ThirdPersonCharacter_C_1
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter:0B85
+[2020.03.09-15.41.52:099][512]LogScript: Warning: Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ReceiveTick
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+
+[2020.03.09-15.41.54:002][541]LogOnlineSession: Warning: OSS: No game present to leave for session (GameSession)
+[2020.03.09-15.41.54:735][552]LogNet: Warning: Network Failure: GameNetDriver[FailureReceived]: Host closed the connection.
+[2020.03.09-15.41.54:735][552]LogNet: NetworkFailure: FailureReceived, Error: 'Host closed the connection.'
+[2020.03.09-15.41.54:735][552]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 172.19.102.240:7777, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_0, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:L0158-D021NAC-7701F6E244F848639EBEF9BB4F3D9502, Channels: 16, Time: 2020.03.09-15.41.54
+[2020.03.09-15.41.54:736][552]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 172.19.102.240:7777, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_0, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:L0158-D021NAC-7701F6E244F848639EBEF9BB4F3D9502
+[2020.03.09-15.41.54:781][553]LogNet: Browse: /Game/ThirdPersonBP/Maps/MenuLevel?closed
+[2020.03.09-15.41.54:782][553]LogNet: Connection failed; returning to Entry
+[2020.03.09-15.41.54:868][553]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/MenuLevel?closed
+[2020.03.09-15.41.54:868][553]LogNet: World NetDriver shutdown IpNetDriver_0 [GameNetDriver]
+[2020.03.09-15.41.54:868][553]LogNet: DestroyNamedNetDriver IpNetDriver_0 [GameNetDriver]
+[2020.03.09-15.41.54:868][553]LogExit: GameNetDriver IpNetDriver_0 shut down
+[2020.03.09-15.41.54:926][553]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.03.09-15.41.55:077][553]LogAIModule: Creating AISystem for world MenuLevel
+[2020.03.09-15.41.55:077][553]LogLoad: Game class is 'MenuGameMode_C'
+[2020.03.09-15.41.55:093][553]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/MenuLevel.MenuLevel up for play (max tick rate 0) at 2020.03.09-15.41.55
+[2020.03.09-15.41.55:094][553]LogWorld: Bringing up level for play took: 0.015928
+[2020.03.09-15.41.55:095][553]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.03.09-15.41.55:099][553]LogLoad: Took 0.231461 seconds to LoadMap(/Game/ThirdPersonBP/Maps/MenuLevel)
+[2020.03.09-15.41.55:129][553]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2020.03.09-15.42.21:522][162]LogInit: XAudio2 using 'Headset Earphone (5- Plantronics C310-M)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.03.09-15.42.21:522][162]LogAudio: Warning: Waited 71.009300ms for audio thread.
+[2020.03.09-15.42.21:558][162]LogAudio: Warning: Waited 106.462700ms for audio thread.
+[2020.03.09-15.42.21:594][162]LogAudio: Warning: Waited 142.371292ms for audio thread.
+[2020.03.09-15.42.21:596][162]LogAudio: Warning: Waited 144.352798ms for audio thread.
+[2020.03.09-15.42.21:796][167]LogInit: XAudio2 using 'Headset Earphone (5- Plantronics C310-M)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.03.09-15.42.21:796][167]LogAudio: Warning: Waited 71.007401ms for audio thread.
+[2020.03.09-15.42.21:809][167]LogAudio: Warning: Waited 83.918098ms for audio thread.
+[2020.03.09-15.42.29:694][347]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.09-15.42.29:787][349]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.09-15.42.31:270][383]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.09-15.42.34:198][452]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.09-15.42.35:385][479]Closing by request
+[2020.03.09-15.42.35:385][479]LogWindows: FPlatformMisc::RequestExit(0)
+[2020.03.09-15.42.36:077][480]LogSlate: Window 'Pistol Fight 2 Demo 1 (Debug Build) ' being destroyed
+[2020.03.09-15.42.36:077][480]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.03.09-15.42.36:081][480]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.03.09-15.42.36:083][480]LogExit: Preparing to exit.
+[2020.03.09-15.42.36:083][480]LogMoviePlayer: Shutting down movie player
+[2020.03.09-15.42.36:704][480]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.09-15.42.36:712][480]LogExit: Game engine shut down
+[2020.03.09-15.42.36:769][480]LogExit: Object subsystem successfully closed.
+[2020.03.09-15.42.36:788][480]LogShaderCompilers: Display: Shaders left to compile 0
+[2020.03.09-15.42.36:792][480]LogD3D11RHI: Shutdown
+[2020.03.09-15.42.36:792][480]LogD3D11RHI: CleanupD3DDevice
+[2020.03.09-15.42.36:792][480]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2020.03.09-15.42.36:793][480]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.03.09-15.42.36:793][480]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2020.03.09-15.42.36:793][480]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.03.09-15.42.36:793][480]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2020.03.09-15.42.36:793][480]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.03.09-15.42.36:897][480]LogD3D11RHI: ~FD3D11DynamicRHI
+[2020.03.09-15.42.36:912][480]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (400)
+[2020.03.09-15.42.36:912][480]LogModuleManager: Shutting down and abandoning module SequenceRecorder (398)
+[2020.03.09-15.42.36:912][480]LogModuleManager: Shutting down and abandoning module AutomationController (396)
+[2020.03.09-15.42.36:912][480]LogModuleManager: Shutting down and abandoning module AutomationWorker (394)
+[2020.03.09-15.42.36:912][480]LogModuleManager: Shutting down and abandoning module Voice (392)
+[2020.03.09-15.42.36:913][480]LogModuleManager: Shutting down and abandoning module AIModule (390)
+[2020.03.09-15.42.36:913][480]LogModuleManager: Shutting down and abandoning module GameplayDebugger (389)
+[2020.03.09-15.42.36:913][480]LogModuleManager: Shutting down and abandoning module AITestSuite (387)
+[2020.03.09-15.42.36:913][480]LogModuleManager: Shutting down and abandoning module NavigationSystem (385)
+[2020.03.09-15.42.36:913][480]LogModuleManager: Shutting down and abandoning module OculusMR (382)
+[2020.03.09-15.42.36:913][480]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (380)
+[2020.03.09-15.42.36:913][480]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (378)
+[2020.03.09-15.42.36:913][480]LogModuleManager: Shutting down and abandoning module WebMMedia (376)
+[2020.03.09-15.42.36:913][480]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (374)
+[2020.03.09-15.42.36:913][480]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (372)
+[2020.03.09-15.42.36:913][480]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (370)
+[2020.03.09-15.42.36:913][480]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (368)
+[2020.03.09-15.42.36:913][480]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (366)
+[2020.03.09-15.42.36:913][480]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (364)
+[2020.03.09-15.42.36:913][480]LogModuleManager: Shutting down and abandoning module CharacterAI (362)
+[2020.03.09-15.42.36:913][480]LogModuleManager: Shutting down and abandoning module SessionServices (360)
+[2020.03.09-15.42.36:913][480]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (358)
+[2020.03.09-15.42.36:913][480]LogModuleManager: Shutting down and abandoning module LiveCoding (356)
+[2020.03.09-15.42.36:913][480]LogModuleManager: Shutting down and abandoning module LevelSequence (354)
+[2020.03.09-15.42.36:913][480]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (352)
+[2020.03.09-15.42.36:913][480]LogModuleManager: Shutting down and abandoning module MovieScene (350)
+[2020.03.09-15.42.36:913][480]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (348)
+[2020.03.09-15.42.36:913][480]LogModuleManager: Shutting down and abandoning module PortalServices (346)
+[2020.03.09-15.42.36:913][480]LogModuleManager: Shutting down and abandoning module PortalRpc (344)
+[2020.03.09-15.42.36:913][480]LogModuleManager: Shutting down and abandoning module MessagingRpc (342)
+[2020.03.09-15.42.36:913][480]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (340)
+[2020.03.09-15.42.36:915][480]LogModuleManager: Shutting down and abandoning module ProfilerService (338)
+[2020.03.09-15.42.37:104][480]LogModuleManager: Shutting down and abandoning module TaskGraph (336)
+[2020.03.09-15.42.37:104][480]LogModuleManager: Shutting down and abandoning module SteamVRController (334)
+[2020.03.09-15.42.37:104][480]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (332)
+[2020.03.09-15.42.37:104][480]LogModuleManager: Shutting down and abandoning module OculusInput (330)
+[2020.03.09-15.42.37:104][480]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (328)
+[2020.03.09-15.42.37:104][480]LogModuleManager: Shutting down and abandoning module EditableMesh (326)
+[2020.03.09-15.42.37:104][480]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (324)
+[2020.03.09-15.42.37:104][480]LogModuleManager: Shutting down and abandoning module CableComponent (322)
+[2020.03.09-15.42.37:105][480]LogModuleManager: Shutting down and abandoning module AudioCapture (320)
+[2020.03.09-15.42.37:105][480]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (318)
+[2020.03.09-15.42.37:105][480]LogModuleManager: Shutting down and abandoning module AndroidPermission (316)
+[2020.03.09-15.42.37:105][480]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (314)
+[2020.03.09-15.42.37:105][480]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (312)
+[2020.03.09-15.42.37:105][480]LogModuleManager: Shutting down and abandoning module MediaCompositing (310)
+[2020.03.09-15.42.37:105][480]LogModuleManager: Shutting down and abandoning module LinearTimecode (308)
+[2020.03.09-15.42.37:105][480]LogModuleManager: Shutting down and abandoning module ImgMedia (306)
+[2020.03.09-15.42.37:105][480]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (304)
+[2020.03.09-15.42.37:105][480]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (302)
+[2020.03.09-15.42.37:105][480]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (300)
+[2020.03.09-15.42.37:105][480]LogModuleManager: Shutting down and abandoning module HTML5Networking (298)
+[2020.03.09-15.42.37:105][480]LogModuleManager: Shutting down and abandoning module GeometryCollectionExampleCore (296)
+[2020.03.09-15.42.37:106][480]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (294)
+[2020.03.09-15.42.37:106][480]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (293)
+[2020.03.09-15.42.37:106][480]LogModuleManager: Shutting down and abandoning module GeometryCache (290)
+[2020.03.09-15.42.37:106][480]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (289)
+[2020.03.09-15.42.37:106][480]LogModuleManager: Shutting down and abandoning module BackChannel (286)
+[2020.03.09-15.42.37:106][480]LogModuleManager: Shutting down and abandoning module AppleVision (284)
+[2020.03.09-15.42.37:106][480]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (282)
+[2020.03.09-15.42.37:106][480]LogModuleManager: Shutting down and abandoning module AppleImageUtils (280)
+[2020.03.09-15.42.37:106][480]LogModuleManager: Shutting down and abandoning module VariantManagerContent (278)
+[2020.03.09-15.42.37:106][480]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (276)
+[2020.03.09-15.42.37:106][480]LogModuleManager: Shutting down and abandoning module CryptoKeys (274)
+[2020.03.09-15.42.37:106][480]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (272)
+[2020.03.09-15.42.37:106][480]LogModuleManager: Shutting down and abandoning module HotReload (271)
+[2020.03.09-15.42.37:107][480]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (270)
+[2020.03.09-15.42.37:107][480]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (266)
+[2020.03.09-15.42.37:107][480]LogModuleManager: Shutting down and abandoning module UObjectPlugin (264)
+[2020.03.09-15.42.37:107][480]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (262)
+[2020.03.09-15.42.37:107][480]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (260)
+[2020.03.09-15.42.37:107][480]LogModuleManager: Shutting down and abandoning module SourceControl (259)
+[2020.03.09-15.42.37:107][480]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (256)
+[2020.03.09-15.42.37:107][480]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (254)
+[2020.03.09-15.42.37:107][480]LogModuleManager: Shutting down and abandoning module SignificanceManager (252)
+[2020.03.09-15.42.37:107][480]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (250)
+[2020.03.09-15.42.37:107][480]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (248)
+[2020.03.09-15.42.37:108][480]LogModuleManager: Shutting down and abandoning module PhysXVehicles (246)
+[2020.03.09-15.42.37:108][480]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (244)
+[2020.03.09-15.42.37:108][480]LogModuleManager: Shutting down and abandoning module ActorSequence (242)
+[2020.03.09-15.42.37:108][480]LogModuleManager: Shutting down and abandoning module UdpMessaging (240)
+[2020.03.09-15.42.37:208][480]LogModuleManager: Shutting down and abandoning module TcpMessaging (238)
+[2020.03.09-15.42.37:674][480]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (236)
+[2020.03.09-15.42.37:674][480]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (234)
+[2020.03.09-15.42.37:674][480]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (232)
+[2020.03.09-15.42.37:674][480]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (230)
+[2020.03.09-15.42.37:674][480]LogModuleManager: Shutting down and abandoning module MagicLeapController (228)
+[2020.03.09-15.42.37:674][480]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2020.03.09-15.42.37:674][480]LogModuleManager: Shutting down and abandoning module MagicLeapAR (226)
+[2020.03.09-15.42.37:674][480]LogModuleManager: Shutting down and abandoning module AugmentedReality (225)
+[2020.03.09-15.42.37:674][480]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (222)
+[2020.03.09-15.42.37:674][480]LogModuleManager: Shutting down and abandoning module FacialAnimation (220)
+[2020.03.09-15.42.37:674][480]LogModuleManager: Shutting down and abandoning module DataValidation (218)
+[2020.03.09-15.42.37:674][480]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (216)
+[2020.03.09-15.42.37:674][480]LogModuleManager: Shutting down and abandoning module TreeMap (215)
+[2020.03.09-15.42.37:674][480]LogModuleManager: Shutting down and abandoning module AnimationSharing (212)
+[2020.03.09-15.42.37:674][480]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (210)
+[2020.03.09-15.42.37:675][480]LogModuleManager: Shutting down and abandoning module AISupportModule (208)
+[2020.03.09-15.42.37:675][480]LogModuleManager: Shutting down and abandoning module Paper2D (206)
+[2020.03.09-15.42.37:675][480]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (204)
+[2020.03.09-15.42.37:675][480]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (202)
+[2020.03.09-15.42.37:675][480]LogModuleManager: Shutting down and abandoning module PacketHandler (200)
+[2020.03.09-15.42.37:675][480]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (198)
+[2020.03.09-15.42.37:675][480]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (196)
+[2020.03.09-15.42.37:675][480]LogModuleManager: Shutting down and abandoning module MediaAssets (194)
+[2020.03.09-15.42.37:675][480]LogModuleManager: Shutting down and abandoning module Overlay (192)
+[2020.03.09-15.42.37:675][480]LogModuleManager: Shutting down and abandoning module OverlayEditor (191)
+[2020.03.09-15.42.37:675][480]LogModuleManager: Shutting down and abandoning module VREditor (188)
+[2020.03.09-15.42.37:675][480]LogModuleManager: Shutting down and abandoning module StringTableEditor (186)
+[2020.03.09-15.42.37:675][480]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (184)
+[2020.03.09-15.42.37:675][480]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (182)
+[2020.03.09-15.42.37:675][480]LogModuleManager: Shutting down and abandoning module FunctionalTesting (180)
+[2020.03.09-15.42.37:675][480]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (178)
+[2020.03.09-15.42.37:675][480]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (177)
+[2020.03.09-15.42.37:675][480]LogModuleManager: Shutting down and abandoning module UMG (174)
+[2020.03.09-15.42.37:675][480]LogModuleManager: Shutting down and abandoning module UMGEditor (173)
+[2020.03.09-15.42.37:675][480]LogModuleManager: Shutting down and abandoning module Sequencer (172)
+[2020.03.09-15.42.37:675][480]LogModuleManager: Shutting down and abandoning module MessageLog (169)
+[2020.03.09-15.42.37:675][480]LogModuleManager: Shutting down and abandoning module SlateReflector (164)
+[2020.03.09-15.42.37:675][480]LogModuleManager: Shutting down and abandoning module Slate (162)
+[2020.03.09-15.42.37:675][480]LogModuleManager: Shutting down and abandoning module EditorStyle (160)
+[2020.03.09-15.42.37:676][480]LogModuleManager: Shutting down and abandoning module UnrealEd (158)
+[2020.03.09-15.42.37:676][480]LogModuleManager: Shutting down and abandoning module MRMesh (156)
+[2020.03.09-15.42.37:676][480]LogModuleManager: Shutting down and abandoning module Messaging (154)
+[2020.03.09-15.42.37:676][480]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (152)
+[2020.03.09-15.42.37:676][480]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (150)
+[2020.03.09-15.42.37:676][480]LogModuleManager: Shutting down and abandoning module XAudio2 (148)
+[2020.03.09-15.42.37:676][480]LogModuleManager: Shutting down and abandoning module Networking (146)
+[2020.03.09-15.42.37:676][480]LogModuleManager: Shutting down and abandoning module Core (144)
+[2020.03.09-15.42.37:676][480]LogModuleManager: Shutting down and abandoning module KismetCompiler (142)
+[2020.03.09-15.42.37:676][480]LogModuleManager: Shutting down and abandoning module MeshUtilities (140)
+[2020.03.09-15.42.37:677][480]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (139)
+[2020.03.09-15.42.37:677][480]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (138)
+[2020.03.09-15.42.37:677][480]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (137)
+[2020.03.09-15.42.37:677][480]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (135)
+[2020.03.09-15.42.37:677][480]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (133)
+[2020.03.09-15.42.37:677][480]LogModuleManager: Shutting down and abandoning module MaterialBaking (129)
+[2020.03.09-15.42.37:677][480]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (124)
+[2020.03.09-15.42.37:677][480]LogModuleManager: Shutting down and abandoning module DerivedDataCache (122)
+[2020.03.09-15.42.37:762][480]LogDerivedDataCache: Shutdown
+[2020.03.09-15.42.37:762][480]LogModuleManager: Shutting down and abandoning module XGEController (120)
+[2020.03.09-15.42.37:762][480]LogModuleManager: Shutting down and abandoning module TargetPlatform (118)
+[2020.03.09-15.42.37:762][480]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (117)
+[2020.03.09-15.42.37:762][480]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (115)
+[2020.03.09-15.42.37:762][480]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (113)
+[2020.03.09-15.42.37:762][480]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (111)
+[2020.03.09-15.42.37:762][480]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (109)
+[2020.03.09-15.42.37:762][480]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (107)
+[2020.03.09-15.42.37:763][480]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (105)
+[2020.03.09-15.42.37:763][480]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (103)
+[2020.03.09-15.42.37:763][480]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (101)
+[2020.03.09-15.42.37:763][480]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (99)
+[2020.03.09-15.42.37:763][480]LogModuleManager: Shutting down and abandoning module ImageWrapper (98)
+[2020.03.09-15.42.37:763][480]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (95)
+[2020.03.09-15.42.37:763][480]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (93)
+[2020.03.09-15.42.37:763][480]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (91)
+[2020.03.09-15.42.37:763][480]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (89)
+[2020.03.09-15.42.37:764][480]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (87)
+[2020.03.09-15.42.37:764][480]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (85)
+[2020.03.09-15.42.37:764][480]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (83)
+[2020.03.09-15.42.37:764][480]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (81)
+[2020.03.09-15.42.37:764][480]LogModuleManager: Shutting down and abandoning module InputCore (78)
+[2020.03.09-15.42.37:764][480]LogModuleManager: Shutting down and abandoning module Settings (76)
+[2020.03.09-15.42.37:764][480]LogModuleManager: Shutting down and abandoning module PhysXCooking (74)
+[2020.03.09-15.42.37:764][480]LogModuleManager: Shutting down and abandoning module SteamVR (72)
+[2020.03.09-15.42.37:764][480]LogHMD: Freeing OpenVRDLLHandle.
+[2020.03.09-15.42.37:764][480]LogModuleManager: Shutting down and abandoning module OculusHMD (70)
+[2020.03.09-15.42.37:764][480]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (68)
+[2020.03.09-15.42.37:764][480]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (66)
+[2020.03.09-15.42.37:764][480]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (64)
+[2020.03.09-15.42.37:764][480]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (60)
+[2020.03.09-15.42.37:766][480]LogModuleManager: Shutting down and abandoning module XMPP (55)
+[2020.03.09-15.42.37:766][480]LogModuleManager: Shutting down and abandoning module WebSockets (54)
+[2020.03.09-15.42.37:785][480]LogModuleManager: Shutting down and abandoning module HTTP (51)
+[2020.03.09-15.42.37:819][480]LogModuleManager: Shutting down and abandoning module SSL (50)
+[2020.03.09-15.42.37:823][480]LogModuleManager: Shutting down and abandoning module WmfMedia (46)
+[2020.03.09-15.42.37:826][480]LogModuleManager: Shutting down and abandoning module Media (45)
+[2020.03.09-15.42.37:831][480]LogModuleManager: Shutting down and abandoning module MagicLeap (42)
+[2020.03.09-15.42.37:832][480]LogModuleManager: Shutting down and abandoning module DatasmithContent (40)
+[2020.03.09-15.42.37:903][480]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2020.03.09-15.42.37:903][480]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2020.03.09-15.42.37:903][480]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2020.03.09-15.42.37:903][480]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2020.03.09-15.42.37:903][480]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2020.03.09-15.42.37:903][480]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2020.03.09-15.42.37:903][480]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2020.03.09-15.42.37:903][480]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2020.03.09-15.42.37:903][480]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2020.03.09-15.42.37:903][480]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2020.03.09-15.42.37:903][480]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2020.03.09-15.42.37:903][480]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2020.03.09-15.42.37:903][480]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2020.03.09-15.42.37:903][480]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2020.03.09-15.42.37:903][480]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2020.03.09-15.42.37:903][480]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2020.03.09-15.42.37:903][480]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2020.03.09-15.42.37:903][480]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2020.03.09-15.42.37:903][480]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2020.03.09-15.42.37:907][480]LogExit: Exiting.
+[2020.03.09-15.42.37:926][480]Log file closed, 03/09/20 15:42:37
